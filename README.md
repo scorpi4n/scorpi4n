@@ -3,6 +3,7 @@ I'm learning WebDev and I'm going into IT! Any helpful advice is appreciated but
 My hobbies include custom mechanical keyboards and video games.
 ## Socials
 Instagram - @j.phillips192
+
 Email - N/A
 ## Languages I'm Learning
 - JavaScript
