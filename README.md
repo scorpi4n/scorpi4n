@@ -1,8 +1,2 @@
 # Welcome!
-I'm a student, currently learning:
-- IT
-  -  CompTIA A+
-- Web development
-  - Vanilla HTML, CSS, and JavaScript but thinking about looking into various frameworks
-- Programming
-  - Rust
+I'm a student learning IT and web development. Currently that means studying for the Comptia A+ and learning web dev from The Odin Project.
